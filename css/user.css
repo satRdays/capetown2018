@@ -54,10 +54,6 @@
 	color: #003399;
 }
 
-.affix {
-	top: 10px;
-}
-
 #emptyness {
 	height: 200px;
 
@@ -73,9 +69,6 @@ section {
 }
 
 @media all and (max-width:779px){
-	.affix {
-		position: static;
-	}
 	.subhead h1 {
 		font-size: 32px;
 	}
