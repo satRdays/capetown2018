@@ -10,15 +10,14 @@
 
 .thumbnail {
 	float: right;
-	margin: 15px;	
+	margin: 15px;
 }
 
 .sidebar {
-    float:right;
 }
 
 .subhead {
-	background-image: url('images/placeholder.jpg');
+	background-image: url('../images/banner-2.jpg');
 	background-repeat: no-repeat;
 	background-position: center;
 	padding: 45px;
@@ -80,7 +79,7 @@ section {
 	.subhead h1 {
 		font-size: 32px;
 	}
-	
+
 	.subhead p {
 		font-size: 24px;
 		font-weight: 300;

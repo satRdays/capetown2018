@@ -1,0 +1,36 @@
+<!--
+	Original design: Jeroen Ooms // jeroenooms.github.io
+	Original source code: https://github.com/user2014/user2014.github.io
+	License: CC-BY 3.0
+
+	Truncated content and updated by Gergely Daroczi
+	Moved to Jekyll by Andrew Collier
+	Maintained by the satRdays organizers
+-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <!-- for social media preview stuff -->
+  <meta property="og:image" content="images/satRdayLogo-square.png" />
+  <link rel="image_src" href="images/satRdayLogo-square.png"/>
+  <!--
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+-->
+  <link rel="icon" href="favicon-96x96.png" type="image/png" sizes="96x96">
+  <meta name="description" content="SatRDays are community-led, regional conferences to support collaboration, networking and innovation within the R community." />
+
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+<!--
+  <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+  <link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
+-->
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link href="css/user.css" rel="stylesheet" media="screen">
+</head>
