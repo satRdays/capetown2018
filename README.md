@@ -1,5 +1,23 @@
 The site is published [here](https://datawookie.github.io/satRday-Cape-Town/).
 
+https://www.youtube.com/watch?v=a5WleYV3wmM&feature=youtu.be
+https://tomaztsql.wordpress.com/2016/09/06/sharing-thoughts-on-satrdays-r-conference-budapest-2016-satrdays/
+http://budapest.satrdays.org/#schedule
+
+> Hey Andrew,
+> 
+> thanks for your kind mail. This project is indeed very exciting! I've started the actual first steps (looking for venue etc) 3 months ago, and it was an awesome experience & looking forward to see the conference come to live
+> next Saturday :) As a side note: organizing the conf required a lot more work hours than I originally expected. I thought it would be a few hours a week, but actually it became 2-3 hours a day fun project -- which was sometime
+> pretty cumbersome besides doing a full time job. So be prepared for that :)
+
+> I plan to write a blog post on my experiences as a satRday conf organizer and providing some hints, dos and donts to future organizers, also some hopefully helpful templates (eg homepage, rollup design, speaker info bundle
+> etc) -- please expect that in mid-Sept.
+> 
+> Until then, let me reply below, inline.
+> 
+> Best, Gergely.
+
+
 http://blog.rapporter.net/2016/08/satrday-conference-budapest-next-week.html
 
 http://budapest.satrdays.org/#datavizcompo
