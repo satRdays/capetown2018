@@ -1,3 +1,5 @@
+The site is published [here](https://datawookie.github.io/satRday-Cape-Town/).
+
 http://blog.rapporter.net/2016/08/satrday-conference-budapest-next-week.html
 
 http://budapest.satrdays.org/#datavizcompo
