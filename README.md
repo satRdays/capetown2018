@@ -1,6 +1,7 @@
 The site is published [here](https://datawookie.github.io/satRday-Cape-Town/).
 
 https://www.youtube.com/watch?v=a5WleYV3wmM&feature=youtu.be
+http://blog.rapporter.net/2016/09/the-start-of-satrdays.html
 https://tomaztsql.wordpress.com/2016/09/06/sharing-thoughts-on-satrdays-r-conference-budapest-2016-satrdays/
 http://budapest.satrdays.org/#schedule
 
