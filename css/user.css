@@ -157,7 +157,7 @@ section {
 .speaker .speaker-affiliation {
     padding-top: 0px;
     font-style: italic;
-    font-size: 1.25em;
+    font-size: 1em;
 }
 .speaker .speaker-bio {
     display: none;
@@ -171,7 +171,4 @@ section {
 }
 #speakers .speaker .speaker-name {
     font-size: 1.75em;
-}
-#speakers .speaker .speaker-affiliation {
-    font-size: 1.3em;
 }
