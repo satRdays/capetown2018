@@ -23,13 +23,38 @@ http://blog.rapporter.net/2016/08/satrday-conference-budapest-next-week.html
 
 http://budapest.satrdays.org/#datavizcompo
 
+Use EVENTBRITE to registration. Derivco has an account.
+
+APPLICATION:
+
+- Experience with R
+- Food requirements
+
+VENUES:
+
+W17
+The River Club
+Derivco Cape Town
+
 SPONSORS:
 
 http://budapest.satrdays.org/#sponsors
 
 iXperience
+Microsoft (Gary Hope, gary.hope@microsoft.com)
+RStudio
+Vantage Data
 Derivco
 Toptal
+
+Books sponsor?
+
+THINGS TO ORGANISE:
+
+Speakers' Dinner (the night before)
+Speakers' Room (for their stuff, snacks etc.)
+Swag (branded flash drives, t-shirts, lanyards)
+"Ask the Experts" panel discussion at end of day?
 
 THEMES:
 
@@ -37,7 +62,6 @@ http://tyler-abbot.github.io/DrJekyll/
 https://hemangsk.github.io/DevJournal/
 https://panossakkos.github.io/personal-jekyll-theme/
 http://jekyllthemes.org/themes/saigon/
-
 
 ![Build Status](https://gitlab.com/pages/jekyll/badges/master/build.svg)
 ![Jekyll Version](https://img.shields.io/gem/v/jekyll.svg)
