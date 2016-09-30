@@ -42,6 +42,7 @@ http://budapest.satrdays.org/#sponsors
 
 iXperience
 Microsoft (Gary Hope, gary.hope@microsoft.com)
+DataCamp
 RStudio
 Vantage Data
 Derivco
