@@ -1,4 +1,4 @@
-The site is published [here](https://datawookie.github.io/satRday-Cape-Town/).
+The site is published [here](http://satrdays.org/satRday-Cape-Town/).
 
 https://www.youtube.com/watch?v=a5WleYV3wmM&feature=youtu.be
 http://blog.rapporter.net/2016/09/the-start-of-satrdays.html
