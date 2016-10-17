@@ -124,11 +124,10 @@ section {
 }
 
 .speaker {
-    text-align: center;
     margin-top: 15px;
 }
 .speaker .speaker-photo {
-    width: 40%;
+    width: 80%;
     height: auto;
     position: relative;
     overflow: hidden;
@@ -147,20 +146,25 @@ section {
     border-radius: 50%;
 }
 .speaker .speaker-name {
+    text-align: center;
     padding-top: 10px;
     font-size: 1.5em;
 }
 .speaker .speaker-position {
+    text-align: center;
     padding-top: 0px;
     font-size: 1.25em;
 }
 .speaker .speaker-affiliation {
+    text-align: center;
     padding-top: 0px;
     font-style: italic;
     font-size: 1em;
 }
 .speaker .speaker-bio {
-    display: none;
+    /* display: none; */
+    font-size: 0.75em;
+    margin-top: 20px;
 }
 .speaker .speaker-social {
     padding: 5px;
