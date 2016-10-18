@@ -167,7 +167,9 @@ section {
     margin-top: 20px;
 }
 .speaker .speaker-social {
+    text-align: center;
     padding: 5px;
+    font-size: 1.25em;
 }
 
 #speakers .speaker .speaker-photo {
