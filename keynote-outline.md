@@ -2,13 +2,13 @@
 
 ## Shiny Workshop [Julia Silge]
 
-Shiny is a framework for building interactive web apps and dashboards using the statistical programming language R. In this workshop, we will walk through how to move from an analysis performed in R, with plots and tables that an analyst wants to share, to a self-contained web app. We will learn
+[Shiny](http://shiny.rstudio.com/) is a framework for building interactive web apps and dashboards using the statistical programming language R. In this workshop, we will walk through how to move from an analysis performed in R, with plots and tables that an analyst wants to share, to a self-contained web app. We will learn
 
-- what reactive programming is
-- how to use the flexdashboard package to customize your app
-- how to publish and share your app
+- what reactive programming is,
+- how to use the flexdashboard package to customize your app, and
+- how to publish and share your app.
 
-Attendees should bring a laptop with the latest versions of R and RStudio installed, and we will build a Shiny app from scratch together.
+Attendees should bring a laptop with the latest versions of [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/) installed, and we will build a Shiny app from scratch together.
 
 ## Using Git and GitHub with R, RStudio, and R Markdown [Jennifer Bryan]
 
@@ -33,15 +33,16 @@ The tutorial will be structured as ~5 task-oriented units. Indicative topics:
 
 This will be a hands-on tutorial, so bring your prepared laptop and pre-register a free GitHub account.
 
-## Workshop 3 [Hilary Parker]
+## Opinionated Analysis Development [Hilary Parker]
 
-*Description goes here...*
+The process of developing an analysis has gotten relatively little airtime compared to other areas of data science, such as productionizing algorithms. In this workshop, I'll go through the ideal properties of an analysis (reproducible, error-free and collaborative), and then the best tools to help tackle each property. We'll go end-to-end through the process of developing an analysis using these tools.
 
 # Keynote Talks
 
 ## Text Mining with Tidy Tools [Julia Silge]
 
-*Abstract goes here...*
+Unstructured, text-heavy data sets are increasingly important in many domains, and tidy data principles and tidy tools can make text mining tasks easier and more effective. In this talk, I will demonstrate how we can manipulate, summarize, and visualize the characteristics of text using R packages from the tidy tool ecosystem; these tools extend naturally to many text analyses and allow you to integrate natural language processing into effective workflows you may already be using. We will explore how to implement approaches such as sentiment analysis of texts and measuring tf-idf to quantify what documents are about.
+
 
 ## Behind every great plot there's a great deal of wrangling [Jennifer Bryan]
 
