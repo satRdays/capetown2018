@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: satRday Cape Town
+title: satRday in Cape Town
 email: satRday.cape.town@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A one day conference in Cape Town packed with R goodness.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://satrdays.org/" # the base hostname & protocol for your site
+url: "http://satrdays.org" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
