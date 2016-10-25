@@ -12,8 +12,6 @@ Attendees should bring a laptop with the latest versions of [R](https://www.r-pr
 
 ## Using Git and GitHub with R, RStudio, and R Markdown [Jennifer Bryan]
 
-### Overview
-
 Data analysts can use the [Git version control system](https://git-scm.com) to manage a motley assortment of project files in a sane way (e.g., data, code, reports, etc.). This has benefits for the solo analyst and, especially, for anyone who wants to communicate and collaborate with others. Git helps you organize your project over time and across different people and computers. Hosting services like [GitHub](https://github.com), [Bitbucket](https://bitbucket.org), and [GitLab](https://about.gitlab.com) provide a home for your Git-based projects on the internet.
 
 What's special about using R and Git(Hub)?
@@ -22,20 +20,23 @@ What's special about using R and Git(Hub)?
 -   workflows for R scripts and [R Markdown](http://rmarkdown.rstudio.com) files that make it easy to share source and rendered results on GitHub
 -   Git- and GitHub-related features of the [RStudio IDE](https://www.rstudio.com/products/rstudio-desktop/)
 
-### Outline
-
 The tutorial will be structured as ~5 task-oriented units. Indicative topics:
 
 -   The most difficult part: installation and configuration!
 -   Creating a Git repository and connecting the local repo to a GitHub remote, for new and existing projects.
--   The intersection of GitHub and the R world: R packages developed on Github and how to make use of ["issues"](https://guides.github.com/features/issues/); [METACRAN](http://www.r-pkg.org) [read-only mirror](https://github.com/cran) of all of CRAN; R-specific searching tips.
+-   The intersection of GitHub and the R world: R packages developed on Github and how to make use of [issues](https://guides.github.com/features/issues/); [METACRAN](http://www.r-pkg.org) [read-only mirror](https://github.com/cran) of all of CRAN; R-specific searching tips.
 -   Daily workflows and FAQ: how often should I commit?, which files should I commit? how do I change a commit or its message? how do groups of 1, 5, or 10 people structure their work with Git(Hub)? etc.
 
 This will be a hands-on tutorial, so bring your prepared laptop and pre-register a free GitHub account.
 
-## Opinionated Analysis Development [Hilary Parker]
+## Introduction to A/B Testing [Hilary Parker]
 
-The process of developing an analysis has gotten relatively little airtime compared to other areas of data science, such as productionizing algorithms. In this workshop, I'll go through the ideal properties of an analysis (reproducible, error-free and collaborative), and then the best tools to help tackle each property. We'll go end-to-end through the process of developing an analysis using these tools.
+A/B testing is a common technique used to optimize website. In this workshop, we'll go through the basics of A/B testing:
+
+- Simulating A/B testing results;
+- tidyverse approach to A/B testing analysis;
+- using linear models;
+- best practices for report generation.
 
 # Keynote Talks
 
@@ -48,6 +49,6 @@ Unstructured, text-heavy data sets are increasingly important in many domains, a
 
 If you are struggling to make a plot, tear yourself away from stackoverflow for a moment and ... take a hard look at your data. Is it really in the most favorable form for the task at hand? Time and time again I have found that my visualization struggles are really a symptom of unfinished data wrangling. R has long had excellent facilities for data aggregation or "split-apply-combine": split an object into pieces, compute on each piece, and glue the result back together again. Recent developments, especially in the purrr package, have made "split-apply-combine" even easier and more general. But this requires a certain comfort level with lists, especially with lists that are columns inside a data frame. This is unfamiliar to most of us. I give an overview of this set of problems and match them up with solutions based on grouped, nested, and split data frames.
 
-## Talk 3 [Hilary Parker]
+## Opinionated Analysis Development [Hilary Parker]
 
-*Abstract goes here...*
+When it comes to best practices, the discussion can often veer in two directions. One direction is that people should figure out their best workflow without any sort of cook-bookery or top-down directives. The other direction is what's commonly known as the language wars -- contentious arguments about which tools are "best" without defining what best means. In this talk, I'll take a step back and consider why it's important to teach generalized approaches for developing the best possible analyses -- that is, those that are reproducible, error-free and collaborative. By abstracting the discussion away from specific tools, it allows data scientists to be flexible and use tooling that best meets their needs, while still helping them avoid some of the most common and frustrating pitfalls.
