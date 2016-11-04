@@ -31,7 +31,7 @@ This will be a hands-on tutorial, so bring your prepared laptop and pre-register
 
 ## Introduction to A/B Testing [Hilary Parker]
 
-A/B testing is a common technique used to optimize website. In this workshop, we'll go through the basics of A/B testing:
+A/B testing is a common technique used to optimize a website. In this workshop, we'll go through the basics of A/B testing:
 
 - Simulating A/B testing results;
 - tidyverse approach to A/B testing analysis;
