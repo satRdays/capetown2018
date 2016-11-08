@@ -28,6 +28,10 @@
 	text-align: center;
 }
 
+#topheader {
+	padding: 45px;
+}
+
 .subhead h1 {
 	font-size: 60px;
 }
