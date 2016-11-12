@@ -50,10 +50,6 @@
     margin-bottom: 10px;
 }
 
-.nav li a {
-	color: #003399;
-}
-
 #emptyness {
 	height: 200px;
 
@@ -97,9 +93,6 @@ section {
 	margin-top: 15px;
 }
 
-#pagemenu > div > ul > li.nav-header {
-    padding: 10px 15px;
-}
 
 #pagemenu > div > ul {
     margin-left: 0px;	
@@ -108,12 +101,6 @@ section {
 #pagemenu > div > ul > li {
     padding-left: 20px;	
 }
-
-/*
-.nav > li > a {
-    padding: 10px 0px;
-}
-*/
 
 #pagemenu > div > ul > li > a > i {
 	padding-right: 10px;

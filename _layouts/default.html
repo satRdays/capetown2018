@@ -4,7 +4,13 @@
   <body>
     {% include header.html %}
     <div class="container">
-      {{ content }}
+      {% include about.html %}
+      {% include speakers.html %}
+      {% include workshops.html %}
+      {% include registration.html %}
+      {% include importantDates.html %}
+      {% include callForPapers.html %}
+      {% include sponsors.html %}
     </div>
     {% include footer.html %}
   </body>
