@@ -49,7 +49,7 @@ body {
  * Site header
  */
 .site-header {
-    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('../images/capetown.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('../images/capetown-blur.jpg');
     text-align: center;
     color: #FFFFFF;
     height: 540px;
@@ -155,6 +155,7 @@ h2, h1 {
     font-size: 58px;
     text-align: center;
     color: #2165b6;
+    margin-top: 50px;
 }
 
 h4 {
@@ -213,7 +214,7 @@ a:visited.btn {
     width: 100%;
 }
 
-h3.sponsor {
+h3 {
     font-weight: 600;
     margin-top: 20px;
     font-size: 42px;
