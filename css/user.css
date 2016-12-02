@@ -20,15 +20,31 @@
     -o-border-radius: 50%;
     border-radius: 50%;
 }
-.speaker .speaker-name {
+.speaker .keynote-name {
     text-align: center;
     padding-top: 10px;
     font-size: 1.5em;
 }
-.speaker .speaker-position {
+.speaker .keynote-position {
     text-align: center;
     padding-top: 0px;
     font-size: 1.25em;
+}
+.speaker .keynote-affiliation {
+    text-align: center;
+    padding-top: 0px;
+    font-style: italic;
+    font-size: 1em;
+}
+.speaker .speaker-name {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 1em;
+}
+.speaker .speaker-position {
+    text-align: center;
+    padding-top: 0px;
+    font-size: 1em;
 }
 .speaker .speaker-affiliation {
     text-align: center;
@@ -48,7 +64,4 @@
 }
 
 #speakers .speaker .speaker-photo {
-}
-#speakers .speaker .speaker-name {
-    font-size: 1.75em;
 }

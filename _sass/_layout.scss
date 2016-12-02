@@ -156,12 +156,14 @@ h2, h1 {
     text-align: center;
     color: #2165b6;
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 h4 {
     text-align: center;
     font-weight: 600;
     color: #757575;
+    margin-bottom: 20px;
 }
 
 h4.space {
@@ -210,8 +212,13 @@ a:visited.btn {
     color: #ffffff;
 }
 
-.sponsor {
+.sponsor img {
     width: 100%;
+    padding: 20px;
+}
+
+#sponsors a > img {
+    padding: 20px;
 }
 
 h3 {
