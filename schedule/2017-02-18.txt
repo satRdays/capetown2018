@@ -33,12 +33,12 @@
 
                 - 3 TBA (Anne Treasure and Katrin Tirok)
                 - 2 [☇] Impact of fishing on the African penguin population off the West Coast of South Africa (Andrea Ross-Gillespie)
-                - 2 [☇] Visual modelling with pavo (Jeroen van der Merwe)
 				- 3 MicRobiome ​Analysis (Katie Lennard and Kirsty Lee Garson)
-				- 2 [☇???] Prospects for Trachoma Elimination through targeted mass treatment (Laing Lourens)
-                - 2 [☇] Bayesian inversion using Gaussian process priors (Landman Bester)
+                - 2 [☇] Visual modelling with pavo (Jeroen van der Merwe)
+                - 2 Helping to ease the pain with R/RMarkdown (Peter Kamerman)                
+				- 2 [☇] Prospects for Trachoma Elimination through targeted mass treatment (Laing Lourens)
                 - 2 [☇] Using R to understand Human Evolution (Kerryn Warren)
-                - 2 [☇] Helping to ease the pain with R/RMarkdown (Peter Kamerman)
+                - 0 [☇] Bayesian inversion using Gaussian process priors (Landman Bester)
 
 15:30 - 16:00   Coffee
 
@@ -49,23 +49,23 @@
 16:50 - ??:??   Talks (General)                                 [Chairperson: TBA TBA TBA]
 
                 - 3 TBA (Raymond Ellis and Greg Streatfield)
-                - 2 Using visNetworks to Visualize Vine Copula (Hanjo Odendaal)
+                - 2 [☇] Using visNetworks to Visualize Vine Copula (Hanjo Odendaal)
 				- 2 Microsoft, Open Source, R: You gotta be kidding! (Niels Berglund)
                 - 2 [☇] R and PowerBI: best frenemies (Michael Johnson)
-				- 2 [☇???]Bayesian inversion using Gaussian process priors (Landman Bester)
 				- 2 High performance R: integrating cpp into your workflow (Robert Bennetto)
 				- 2 [☇???] Energy planning for climate change using R, StarCluster and Shiny (Schalk Heunis)
 				- 2 Using R as a GIS: Introduction to spatial data visualization and manipulation in R (Jacques Booysen)
-                - 0 [☇] A social scientist tools of the trade within R (Shylock Muyengwa)
                 - 1 [☇] A visual display of Bertrand’s Paradox with the aid of R (Christopher Torr)
                 - 1 [☇] Training Non-Programmers to use R (Riaan van der Walt)
                 - 1 [☇] Expand the analytical potential of machine learning tools by embedding R (Michael Okelola)
+                - 2 [☇] Open Data for Better Decision Making (Matthew Adendorff)
+                
                 - 0 [☇] Data Science for Impact and Decision Enablement (Laing Lourens)
-                - 2 [☇] Open Data for Better Decision Making (Matthew	Adendorff)
+                - 0 [☇] A social scientist tools of the trade within R (Shylock Muyengwa)
 
 ??:?? - ??:??   Coffee
 
-??:?? - ??:??   Data Visualisation Challenge
+??:?? - ??:??   Data Visualisation Challenge                    [Chairperson: TBA TBA TBA]
 
 Backup Talks
 
