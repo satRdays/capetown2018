@@ -1,0 +1,74 @@
+07:30 - 08:00   Early registration for Tutorials
+08:00 - 09:30   Tutorials
+
+                - R at Scale - How to use R on an Hadoop / Spark cluster (Jeff Fletcher)
+                - Redis + R = Multi-user R apps (David Lubinsky)
+				- Shiny / R and Devops (Marko Jakovljevic)
+
+09:30 - 10:00   Registration / Coffee
+10:00 - 10:10   Welcome & Opening
+10:10 - 11:00   Keynote #1                                      [Chairperson: TBA TBA TBA]
+
+                - Text mining, the tidy way (Julia Silge)
+
+11:00 - 12:20   Talks (Session TBA)                             [Chairperson: TBA TBA TBA]
+
+                - Quantitative Strategy Development & Evaluation in R (Jasen Mackie)
+				- Using regression in R to price financial derivatives (James Taylor)
+                - Inventory Forecasting using R (Warren Allworth)
+                - R at UBER (Marc van Heerden)
+                - [☇] R and PowerBI: best frenemies (Michael Johnson)
+                - [☇] Customer Propensity Model using R (Beulah Snyman)
+                - [☇] Visualizing the approach and exceedance of thresholds (Glenn Moncrieff)
+                - [☇] Rapid Data Science Application Deployment with R shiny (Nkululeko Thangelane)
+                - [☇] Cultural Economics (Gerard Janse van Rensburg)
+
+12:20 - 13:20   Lunch
+
+13:20 - 14:10   Keynote #2                                      [Chairperson: TBA TBA TBA]
+    
+                - Data Rectangling (Jenny Bryan)
+
+14:10 - 15:30   Talks (R in the Sciences)                       [Chairperson: TBA TBA TBA]
+
+                - TBA (Anne Treasure and Katrin Tirok)
+                - Impact of fishing on the African penguin population off the West Coast of South Africa (Andrea Ross-Gillespie)
+                - Visual modelling with pavo (Jeroen van der Merwe)
+				- MicRobiome ​Analysis (Katie Lennard and Kirsty Lee Garson)
+				- Prospects for Trachoma Elimination through targeted mass treatment (Laing Lourens)
+                - [☇] Bayesian inversion using Gaussian process priors (Landman Bester)
+                - [☇] Using R to understand Human Evolution (Kerryn Warren)
+                - [☇] Helping to ease the pain with R/RMarkdown (Peter Kamerman)
+
+15:30 - 16:00   Coffee
+
+16:00 - 16:50   Keynote #3                                      [Chairperson: TBA TBA TBA]
+
+                -
+
+16:50 - ??:??   Talks (General)                                 [Chairperson: TBA TBA TBA]
+
+                - TBA (Raymond Ellis and Greg Streatfield)
+                - Using visNetworks to Visualize Vine Copula (Hanjo Odendaal)
+				- Microsoft, Open Source, R: You gotta be kidding! (Niels Berglund)
+				- Who goes there? Profiling street by street audience with Telco data (Kael Huerta)
+				- Bayesian inversion using Gaussian process priors (Landman Bester)
+				- High performance R: integrating cpp into your workflow (Robert Bennetto)
+				- Energy planning for climate change using R, StarCluster and Shiny (Schalk Heunis)
+				- Using R as a GIS: Introduction to spatial data visualization and manipulation in R (Jacques Booysen)
+                - [☇] A social scientist tools of the trade within R (Shylock Muyengwa)
+                - [☇] A visual display of Bertrand’s Paradox with the aid of R (Christopher Torr)
+                - [☇] Training Non-Programmers to use R (Riaan van der Walt)
+                - [☇] Expand the analytical potential of machine learning tools by embedding R (Michael Okelola)
+                - [☇] Data Science for Impact and Decision Enablement (Laing Lourens)
+                - [☇] Open Data for Better Decision Making (Matthew	Adendorff)
+                - [☇] 
+
+??:?? - ??:??   Coffee
+
+??:?? - ??:??   Data Visualisation Challenge
+
+Backup Talks
+
+- Clean Code and How to Get There (Ryan Nel)
+- HillCrest versus 'Maritzburg: A Tale of Two Marathons (Andrew Collier)
