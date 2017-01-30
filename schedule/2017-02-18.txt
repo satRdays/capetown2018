@@ -51,16 +51,13 @@
 
 16:50 - ??:??   Talks (General)                                 [Chairperson: TBA TBA TBA]
 
-	
-                - 2 [☇] Using visNetworks to Visualize Vine Copula (Hanjo Odendaal)
-				- 2 Microsoft, Open Source, R: You gotta be kidding! (Niels Berglund)
-                - 2 [☇] R and PowerBI: best frenemies (Michael Johnson)
-				- 2 High performance R: integrating cpp into your workflow (Robert Bennetto)
-				- 2 [☇???] Energy planning for climate change using R, StarCluster and Shiny (Schalk Heunis)
-				- 2 Using R as a GIS: Introduction to spatial data visualization and manipulation in R (Jacques Booysen)
-                - 1 [☇] A visual display of Bertrand’s Paradox with the aid of R (Christopher Torr)
-                - 1 [☇] Expand the analytical potential of machine learning tools by embedding R (Michael Okelola)
-                - 2 [☇] Open Data for Better Decision Making (Matthew Adendorff)
+	        - 2 Microsoft, Open Source, R: You gotta be kidding! (Niels Berglund)
+		- 2 [☇] R and PowerBI: best frenemies (Michael Johnson)
+		- 2 High performance R: integrating cpp into your workflow (Robert Bennetto)
+		- 2 [☇] Using visNetworks to Visualize Vine Copula (Hanjo Odendaal)
+		- 2 Using R as a GIS: Introduction to spatial data visualization and manipulation in R (Jacques Booysen)
+		- 2 [☇???] Energy planning for climate change using R, StarCluster and Shiny (Schalk Heunis)
+		- 2 [☇] Open Data for Better Decision Making (Matthew Adendorff)
 
 ??:?? - ??:??   Coffee
 
