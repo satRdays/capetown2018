@@ -13,15 +13,15 @@
 
 11:00 - 12:20   Talks (Session TBA)                             [Chairperson: TBA TBA TBA]
 
-                - 2 Quantitative Strategy Development & Evaluation in R (Jasen Mackie)
+                - 2 Quantitative Strategy Development & Evaluation in R (Jasen Mackie) ***
                 - 2 [☇] Visualizing the approach and exceedance of thresholds (Glenn Moncrieff)
 		- 2 [☇???] Using regression in R to price financial derivatives (James Taylor)
 		
-                - 3 R at UBER (Marc van Heerden)
-		- 2 [☇] Rapid Data Science Application Deployment with R Shiny (Nkululeko Thangelane)
+                - 3 R at UBER (Marc van Heerden) ***
+		- 2 [☇] Rapid Data Science Application Deployment with R Shiny (Nkululeko Thangelane) ***
 		
-		- 2 Who goes there? Profiling street by street audience with Telco data (Kael Huerta)
-                - 2 [☇] Inventory Forecasting using R (Warren Allworth)
+		- 2 Who goes there? Profiling street by street audience with Telco data (Kael Huerta) ***
+                - 2 [☇] Inventory Forecasting using R (Warren Allworth) ***
 		
 	
                 - 2 [☇] Customer Propensity Model using R (Beulah Snyman)
