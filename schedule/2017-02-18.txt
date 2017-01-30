@@ -1,7 +1,7 @@
 07:30 - 08:00   Early registration for Tutorials
 08:00 - 09:30   Tutorials
 
-                - 3 R at Scale - How to use R on an Hadoop / Spark cluster (Jeff Fletcher)
+                - 
                 - 3 Redis + R = Multi-user R apps (David Lubinsky)
 				- 2 Shiny / R and Devops (Marko Jakovljevic)
 
