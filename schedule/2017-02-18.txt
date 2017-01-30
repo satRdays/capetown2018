@@ -1,7 +1,7 @@
 07:30 - 08:00   Early registration for Tutorials
 08:00 - 09:30   Tutorials
 
-                - 
+                - 3 TBA (Raymond Ellis and Greg Streatfield)
                 - 3 Redis + R = Multi-user R apps (David Lubinsky)
 				- 2 Shiny / R and Devops (Marko Jakovljevic)
 
@@ -47,7 +47,6 @@
 
 16:50 - ??:??   Talks (General)                                 [Chairperson: TBA TBA TBA]
 
-                - 3 TBA (Raymond Ellis and Greg Streatfield)
                 - 2 [☇] Using visNetworks to Visualize Vine Copula (Hanjo Odendaal)
 				- 2 Microsoft, Open Source, R: You gotta be kidding! (Niels Berglund)
                 - 2 [☇] R and PowerBI: best frenemies (Michael Johnson)
