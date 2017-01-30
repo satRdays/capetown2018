@@ -15,12 +15,16 @@
 
                 - 2 Quantitative Strategy Development & Evaluation in R (Jasen Mackie)
                 - 2 [☇] Visualizing the approach and exceedance of thresholds (Glenn Moncrieff)
-				- 2 [☇???] Using regression in R to price financial derivatives (James Taylor)
+		- 2 [☇???] Using regression in R to price financial derivatives (James Taylor)
+		
                 - 3 R at UBER (Marc van Heerden)
-                - 2 Inventory Forecasting using R (Warren Allworth)
-				- 2 Who goes there? Profiling street by street audience with Telco data (Kael Huerta)
+		- 2 [☇] Rapid Data Science Application Deployment with R Shiny (Nkululeko Thangelane)
+		
+		- 2 Who goes there? Profiling street by street audience with Telco data (Kael Huerta)
+                - 2 [☇] Inventory Forecasting using R (Warren Allworth)
+		
+	
                 - 2 [☇] Customer Propensity Model using R (Beulah Snyman)
-                - 2 [☇] Rapid Data Science Application Deployment with R Shiny (Nkululeko Thangelane)
                 - 1 [☇] Cultural Economics (Gerard Janse van Rensburg)
 
 12:20 - 13:20   Lunch
@@ -47,6 +51,7 @@
 
 16:50 - ??:??   Talks (General)                                 [Chairperson: TBA TBA TBA]
 
+	
                 - 2 [☇] Using visNetworks to Visualize Vine Copula (Hanjo Odendaal)
 				- 2 Microsoft, Open Source, R: You gotta be kidding! (Niels Berglund)
                 - 2 [☇] R and PowerBI: best frenemies (Michael Johnson)
