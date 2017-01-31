@@ -3,7 +3,7 @@
 
                 - TBA (Raymond Ellis and Greg Streatfield)
                 - Redis + R = Multi-user R apps (David Lubinsky)
-				- Shiny / R and Devops (Marko Jakovljevic)
+		- Shiny / R and Devops (Marko Jakovljevic)
 
 08:30 - 09:30   Registration / Coffee
 09:30 - 09:40   Welcome & Opening
@@ -16,8 +16,8 @@
                 - Quantitative Strategy Development & Evaluation in R (Jasen Mackie)
                 - [☇] Visualizing the approach and exceedance of thresholds (Glenn Moncrieff)		
                 - R at UBER (Marc van Heerden)
-				- [☇] Rapid Data Science Application Deployment with R Shiny (Nkululeko Thangelane)		
-				- Who goes there? Profiling street by street audience with Telco data (Kael Huerta)
+		- [☇] Rapid Data Science Application Deployment with R Shiny (Nkululeko Thangelane)		
+		- Who goes there? Profiling street by street audience with Telco data (Kael Huerta)
                 - [☇] Inventory Forecasting using R (Warren Allworth)
 
 11:45 - 12:45   Lunch
@@ -30,10 +30,10 @@
 
                 - TBA (Anne Treasure and Katrin Tirok)
                 - [☇] Impact of fishing on the African penguin population off the West Coast of South Africa (Andrea Ross-Gillespie)
-				- MicRobiome ​Analysis (Katie Lennard and Kirsty Lee Garson)
+		- MicRobiome ​Analysis (Katie Lennard and Kirsty Lee Garson)
                 - [☇] Visual modelling with pavo (Jeroen van der Merwe)
                 - [☇] Helping to ease the pain with R/RMarkdown (Peter Kamerman)                
-				- [☇] Prospects for Trachoma Elimination through targeted mass treatment (Laing Lourens)
+		- [☇] Prospects for Trachoma Elimination through targeted mass treatment (Laing Lourens)
                 - [☇] Using R to understand Human Evolution (Kerryn Warren)
 
 14:40 - 15:10   Coffee
@@ -44,13 +44,13 @@
 
 16:00 - 17:20   Talks (General)                                 [Chairperson: TBA TBA TBA]
 
-	        	- Microsoft, Open Source, R: You gotta be kidding! (Niels Berglund)
-				- [☇] R and PowerBI: best frenemies (Michael Johnson)
-				- High performance R: integrating cpp into your workflow (Robert Bennetto)
-				- [☇] Using visNetworks to Visualize Vine Copula (Hanjo Odendaal)
-				- Using R as a GIS: Introduction to spatial data visualization and manipulation in R (Jacques Booysen)
-				- [☇] Energy planning for climate change using R, StarCluster and Shiny (Schalk Heunis)
-				- [☇] Open Data for Better Decision Making (Matthew Adendorff)
+	        - Microsoft, Open Source, R: You gotta be kidding! (Niels Berglund)
+		- [☇] R and PowerBI: best frenemies (Michael Johnson)
+		- High performance R: integrating cpp into your workflow (Robert Bennetto)
+		- [☇] Using visNetworks to Visualize Vine Copula (Hanjo Odendaal)
+		- Using R as a GIS: Introduction to spatial data visualization and manipulation in R (Jacques Booysen)
+		- [☇] Energy planning for climate change using R, StarCluster and Shiny (Schalk Heunis)
+		- [☇] Open Data for Better Decision Making (Matthew Adendorff)
 
 17:20 - 17:30   Break
 
