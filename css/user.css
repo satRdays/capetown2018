@@ -65,3 +65,34 @@
 
 #speakers .speaker .speaker-photo {
 }
+
+.abstract {
+    display: none;
+    background-color: #ddd;
+    margin-top: 15px;
+    border: 2px solid;
+    padding: 5px;
+    cursor: pointer;
+}
+.session-abstract {
+    display: none;
+    margin-bottom: 10px;
+}
+.session-title {
+    font-weight: bolder;
+}
+.session-talk {
+    font-size: 0.75em;
+}
+.session-chair {
+    font-size: 0.8em;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+.session-chair::before {
+    content: "Chair: ";
+}
+
+.lightning {
+    color: orange;
+}
