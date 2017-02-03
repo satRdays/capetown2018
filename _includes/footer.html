@@ -43,3 +43,16 @@
   ga('create', 'UA-87362516-1', 'auto');
   ga('send', 'pageview');
 </script>
+
+<script>
+$(document).ready(function() {
+    // toggle show/hide abstract for a talk
+    $('.talk').click(function() {
+        var abstract = $(this).find('.abstract')[0];
+        $(abstract).toggle();
+    });
+    $('.abstract').click(function() {
+        $(this).toggle();
+    });
+});
+</script>

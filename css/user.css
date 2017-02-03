@@ -70,13 +70,18 @@
     display: none;
     background-color: #ddd;
     margin-top: 15px;
-    border: 2px solid;
+    border: 1px dashed;
     padding: 5px;
     cursor: pointer;
 }
 .session-abstract {
-    display: none;
+    /* display: none; */
     margin-bottom: 10px;
+    padding: 5px 10px;
+    background-color: lightblue;
+}
+.session-abstract p:last-child {
+    margin-bottom: 0px;
 }
 .session-title {
     font-weight: bolder;
