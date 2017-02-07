@@ -28,13 +28,13 @@
 .speaker .keynote-position {
     text-align: center;
     padding-top: 0px;
-    font-size: 0.85em;
+    font-size: 0.95em;
 }
 .speaker .keynote-affiliation {
     text-align: center;
     padding-top: 0px;
     font-style: italic;
-    font-size: 0.65em;
+    font-size: 0.75em;
 }
 .speaker .speaker-name {
     text-align: center;
