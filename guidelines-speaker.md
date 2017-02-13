@@ -2,7 +2,7 @@
 
 ### Audience
 
-We currently have around 180 people registered for the conference. There's bound to be some no shows on the day, but you can still anticipate a horde of R enthusiastics hanging on your every word.
+We currently have around 200 people registered for the conference. There's bound to be some no shows on the day, but you can still anticipate a horde of R enthusiastics hanging on your every word.
 
 ### Registration
 
@@ -16,7 +16,7 @@ Try to arrive early on the day to avoid the crowd at registration. Along with th
 
 We know that the timing is very tight. The chair of each session will be focusing on keeping everything on schedule.
 
-There will be somebody at the back of the room who will indicate the number of minutes you have left with large cards labelled 10, 5, 3, 2 and 1.
+There will be somebody at the back of the room who will indicate the number of minutes you have left with large cards labelled 10:00, 5:00, 2:00 and 1:00.
 
 If you run over time, the chair will gently cut you off!
 
