@@ -86,13 +86,20 @@
 .session-title {
     font-weight: bolder;
 }
+.session-title-left {
+    font-weight: bolder;
+    float: left;
+}
 .session-talk {
     font-size: 0.75em;
+    float: left;
 }
 .session-chair {
     font-size: 0.8em;
     font-style: italic;
     margin-bottom: 10px;
+    float: left;
+    clear: left;
 }
 .session-chair::before {
     content: "Chair: ";
@@ -100,4 +107,8 @@
 
 .lightning {
     color: orange;
+}
+
+.sponsor-logo-right {
+    float: right;
 }
