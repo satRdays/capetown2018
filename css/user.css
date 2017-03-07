@@ -90,6 +90,9 @@
     font-weight: bolder;
     float: left;
 }
+.session-title-left > a > i {
+    font-size: 0.75em;
+}
 .session-talk {
     font-size: 0.75em;
     float: left;
