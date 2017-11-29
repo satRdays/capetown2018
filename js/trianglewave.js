@@ -34,7 +34,7 @@ function init () {
     darken = Shape.Rectangle(new Point(0,0), view.size);
     darken.bringToFront();
 
-    darken.fillColor =  'rgba(46, 204, 113, 0.6)';
+    darken.fillColor =  'rgba(45, 100, 200, 0.5)';
     darken.blendMode = 'multiply';
     darken.opacity = 1;
 
