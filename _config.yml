@@ -11,7 +11,7 @@ email: satRday.cape.town@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A one day conference in Cape Town packed with R goodness.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://satrdays.org" # the base hostname & protocol for your site
+url: "https://satrdays.org" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
