@@ -39,7 +39,7 @@ mime() %>%
 
 We're looking forward to meeting you and around 200 other R enthusiasts in Cape Town on Saturday 18 February.
 
-Take a look at the technical programme to see what's in store for you (http://capetown2017.satrdays.org/#programme).
+Take a look at the technical programme to see what's in store for you (https://capetown2017.satrdays.org/#programme).
 
 Most of the day will be a single stream of talks. However, we kick off with a choice of three tutorials (these will happen in parallel, so you need to choose one!). In order for us to allocate seating for those tutorials, please let us know which one you'd prefer to attend.
 
@@ -63,7 +63,7 @@ Andrew.") -> text_msg
 # 
 # Just over a week to go before satRday Cape Town!
 # 
-# We wanted to send out a reminder about the Visualisation Challenge (http://capetown2017.satrdays.org/#visualisation): stand a chance to win a Tableau license valued at R27 000.
+# We wanted to send out a reminder about the Visualisation Challenge (https://capetown2017.satrdays.org/#visualisation): stand a chance to win a Tableau license valued at R27 000.
 # 
 # Don't miss the submission deadline on 14 February!
 #               

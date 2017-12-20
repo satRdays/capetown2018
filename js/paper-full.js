@@ -1,9 +1,9 @@
 /*!
  * Paper.js v0.10.2-develop - The Swiss Army Knife of Vector Graphics Scripting.
- * http://paperjs.org/
+ * https://paperjs.org/
  *
  * Copyright (c) 2011 - 2016, Juerg Lehni & Jonathan Puckey
- * http://scratchdisk.com/ & http://jonathanpuckey.com/
+ * https://scratchdisk.com/ & https://jonathanpuckey.com/
  *
  * Distributed under the MIT license. See LICENSE file for details.
  *
@@ -16,14 +16,14 @@
  * Straps.js - Class inheritance library with support for bean-style accessors
  *
  * Copyright (c) 2006 - 2016 Juerg Lehni
- * http://scratchdisk.com/
+ * https://scratchdisk.com/
  *
  * Distributed under the MIT license.
  *
  ***
  *
  * Acorn.js
- * http://marijnhaverbeke.nl/acorn/
+ * https://marijnhaverbeke.nl/acorn/
  *
  * Acorn is a tiny, fast JavaScript parser written in JavaScript,
  * created by Marijn Haverbeke and released under an MIT license.
@@ -13196,9 +13196,9 @@ var BlendMode = new function() {
 };
 
 var SvgElement = new function() {
-	var svg = 'http://www.w3.org/2000/svg',
-		xmlns = 'http://www.w3.org/2000/xmlns',
-		xlink = 'http://www.w3.org/1999/xlink',
+	var svg = 'https://www.w3.org/2000/svg',
+		xmlns = 'https://www.w3.org/2000/xmlns',
+		xlink = 'https://www.w3.org/1999/xlink',
 		attributeNamespace = {
 			href: xlink,
 			xlink: xmlns,
