@@ -116,6 +116,13 @@
     float: right;
 }
 
+.sponsor-logo {
+    height: 150px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+
 .photos {
     margin-bottom: 15px;
 }
