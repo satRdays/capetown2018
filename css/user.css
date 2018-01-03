@@ -133,3 +133,8 @@ body { padding-top: 50px; }
   background-color: #2165b6; /* Fallback color */
   background-color: rgba(0,0,0,0.5);
 }
+
+.sponsor-category {
+  text-align: center;
+  background: silver;
+}
