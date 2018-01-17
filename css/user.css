@@ -138,3 +138,11 @@ body { padding-top: 50px; }
   text-align: center;
   background: silver;
 }
+
+.table-buttons {
+  margin: 10px auto;
+}
+
+.table-buttons td {
+  padding: 10px;
+}
