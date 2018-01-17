@@ -13,6 +13,7 @@
 
 - logo on conference web site
 - logo on all event materials
+- logo on talk videos (to be posted to YouTube)
 - 8 tickets to the conference (value R4000)
 - include material in goodie bag
 - named sponsor for one keynote address at conference
