@@ -1,13 +1,13 @@
 
     <div id="countdown">
-      <div id='tiles'></div>
+      <div id='clockdiv'></div>
     
     <script type="text/javascript">
 
         var target_date =  Date.parse('March 17 2018 08:00:00 GMT+0200');// set the countdown date
         var days, hours, minutes, seconds; // variables for time units
 
-        var countdown = document.getElementById("tiles"); // get tag element
+        var countdown = document.getElementById("clockdiv"); // get tag element
 
         getCountdown();
 
@@ -29,7 +29,7 @@
           seconds = pad( parseInt( seconds_left % 60 ) );
 
           // format countdown string + set tag value
-          countdown.innerHTML = "Only <span>" + days + " days</span> <span>" + hours + "</span>:<span>" + minutes + "</span>:<span>" + seconds + " until satRday! </span><div id='clockdiv'><div><span>" + days + "</span><div class='smalltext'>Days</div></div><div><span>" + hours + "</span><div class='smalltext'>Hours</div></div><div><span>" + minutes + "</span><div class='smalltext'>Minutes</div></div><div><span>" + seconds + "</span><div class='smalltext'>Seconds</div></div></div>";
+          countdown.innerHTML = "<div><span>" + days + "</span><div class='smalltext'>Days</div></div><div><span>" + hours + "</span><div class='smalltext'>Hours</div></div><div><span>" + minutes + "</span><div class='smalltext'>Minutes</div></div><div><span>" + seconds + "</span><div class='smalltext'>Seconds</div></div>";
         }
 
         function pad(n) {
