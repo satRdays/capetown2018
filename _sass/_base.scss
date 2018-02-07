@@ -9,7 +9,6 @@ dl, dd, ol, ul, figure {
 }
 
 
-
 /**
  * Basic styling
  */
@@ -203,4 +202,42 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+
+/* count-down timer */
+
+#countdown{
+     text-align: center;
+}
+
+#clockdiv{
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #000;
+    display: inline-block;
+    font-weight: 100;
+    width: 500px;
+    font-size: 30px;
+    margin: 0 auto;
+}
+
+#clockdiv > div{
+    padding: 10px;
+    border-radius: 3px;
+    background: #5AAFFD;
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+}
+
+#clockdiv div > span{
+    padding: 15px;
+    border-radius: 3px;
+    background: #fff;
+    display: inline-block;
+}
+
+.smalltext{
+    padding-top: 5px;
+    font-size: 16px;
 }
