@@ -17,10 +17,10 @@ To get the most out of the workshop please follow the instructions below **befor
 
 At the start of this workshop, we will expect you to have tried to install everything using the links provided above. 
 
-If you having problems with this, email Maëlle before the workshop and she'll try her best to give assist you or dispatch your question to a helper. On the day of the workshop, helpers can help you finish setting up your laptop if need be but this should be a last resort as time is precious. Please arrive at 08:00 sharp.
+If you experience problems with this, email Maëlle before the workshop and she'll try her best to assist you or dispatch your question to a helper. On the day of the workshop, there will be some helpers to assist you and finish setting up your laptop if need be but this should be a last resort as time is precious. Please arrive at 08:00 sharp.
 
 We'll do everything we can to ensure you enjoy the workshop, and leave with a development environment installed so that you can keep working on the fun concepts you would have learnt once you go home.
 
-Also keep in mind that developping a package will be immensely more fun than the installing process but you need to go through that pain to get there. Alternatively, you might also experience no hassles and have an easy time installing everything!
+Also keep in mind that developing a package will be immensely more fun than the installation and setup process but you need to go through that pain to get there. Alternatively, you might also experience no hassles and have an easy time installing everything!
 
-**Pro tip**: keep track of the installations steps you had to tweak from the above guidelines, if any, so as to help future you/other atendees/helpers. 
+**Pro tip**: keep track of the installations steps you had to tweak from the above guidelines, if any, so as to help future you/other attendees/helpers. 
