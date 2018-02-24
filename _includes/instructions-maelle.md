@@ -9,7 +9,7 @@ To get the most out of the workshop please follow the instructions below **befor
   
 * Prepare your system for [package development](http://stat545.com/packages01_system-prep.html)
 
-* Install the [devtools](https://cran.r-project.org/web/packages/devtools/index.html), [usethis](https://cran.r-project.org/web/packages/usethis/index.html), [testthat](https://cran.r-project.org/web/packages/testthat/index.html), [covr](https://cran.r-project.org/web/packages/covr/index.html), [lintr](https://cran.r-project.org/web/packages/lintr/index.html), [readr](https://cran.r-project.org/web/packages/readr/index.html), [praise](https://cran.r-project.org/web/packages/praise/index.html), [magrittr](https://cran.r-project.org/web/packages/magrittr/index.html) packages.
+* Install the [devtools](https://cran.r-project.org/web/packages/devtools/index.html), [usethis](https://cran.r-project.org/web/packages/usethis/index.html), [testthat](https://cran.r-project.org/web/packages/testthat/index.html), [covr](https://cran.r-project.org/web/packages/covr/index.html), [lintr](https://cran.r-project.org/web/packages/lintr/index.html), [readr](https://cran.r-project.org/web/packages/readr/index.html), [praise](https://cran.r-project.org/web/packages/praise/index.html), [magrittr](https://cran.r-project.org/web/packages/magrittr/index.html), [roxygen2](https://cran.r-project.org/web/packages/roxygen2/index.html)  packages.
 
 * Install [git](http://happygitwithr.com/install-git.html) 
 
