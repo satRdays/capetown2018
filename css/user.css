@@ -149,6 +149,6 @@ body { padding-top: 50px; }
 }
 
 .table tbody tr td {
-    padding-left: 4px;
-    padding-right: 4px;
+    padding-left: 2px;
+    padding-right: 2px;
 }
