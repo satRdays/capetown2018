@@ -2,11 +2,26 @@
 
 Your responsibilities as a session chair are to:
 
-- ensure that all speakers for your session are present and that you know who they are;
-- introduce the talks (title of the talk and the speaker);
-- keep track of time and notify speaker; and
-- help handle questions at the end of the talk.
+### Before the session
+- ensure that all speakers for your session are present;
+- confirm that each speaker's slides have been loaded & tested;
+
+(a technical support person will be on hand to facilitate this with each of the speakers, but it's up to you to ensure that it has been done)
+
+### During the session
+- briefly introduce each speaker and highlight the title/subject of their talk;
+- keep track of time and notify the speaker; and
+- help facilitate questions at the end of the talk
+
+### Timekeeping
 
 To help give timing feedback to the speakers you'll be provided with flashcards. For keynote and standard talks you should notify the speaker when they have 10, 5, 2 and 1 minutes remaining. For lightning talks you should notify the speaker when they have 2 and 1 minutes to go.
 
 When a speaker is out of time, stand up and make it clear to the speaker that they need to bring things to a close rapidly.
+
+### Time Allocation
+
+- 1 minute transition time between all talks
+- keynote talk: 60 minutes (ideally 5 minutes for questions but can probably be left to the speakers discretion)
+- standard talk: 20 minutes (15 minutes talk time, 5 minutes for questions)
+- lightning talk: 5 minutes (usually there is only time for 1 or 2 questions, if any)
