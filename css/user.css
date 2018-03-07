@@ -98,6 +98,7 @@
     float: left;
 }
 .session-chair {
+    width: 100%;
     font-size: 0.8em;
     font-style: italic;
     margin-bottom: 10px;
@@ -145,4 +146,9 @@ body { padding-top: 50px; }
 
 .table-buttons td {
   padding: 10px;
+}
+
+.table tbody tr td {
+    padding-left: 2px;
+    padding-right: 2px;
 }
