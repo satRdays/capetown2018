@@ -4,8 +4,9 @@ Your responsibilities as a session chair are to:
 
 ### Before the Session
 
-- ensure that all speakers for your session are present and
-- confirm that each speaker's slides have been loaded & tested.
+- ensure that all speakers for your session are present,
+- confirm that each speaker's slides have been loaded & tested and
+- confirm with speaker that version of slides is correct.
 
 A technical support person will be on hand to facilitate this with each of the speakers, but it's up to you to ensure that it has been done.
 
