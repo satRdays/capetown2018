@@ -97,6 +97,9 @@
     font-size: 0.75em;
     float: left;
 }
+.session-talk .talk {
+    font-size: 0.95em;
+}
 .session-chair {
     width: 100%;
     font-size: 0.8em;
