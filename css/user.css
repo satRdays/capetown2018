@@ -131,6 +131,11 @@
     margin-bottom: 15px;
 }
 
+.photos .col-md-4 {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
 body { padding-top: 50px; }
 
 .navbar-fixed-top {
